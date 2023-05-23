@@ -1,0 +1,6 @@
+{
+	"script": "/usr/lib/x86_64-linux-gnu/cppcheck/addons/misra.py",
+	"args": [
+		"--rule-texts=~/Desktop/misra/misra.txt"
+	]
+}
